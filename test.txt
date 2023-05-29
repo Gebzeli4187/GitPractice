@@ -14,3 +14,8 @@ yeni versiyonlar olusturduk
 yeni kodlar yazdik
 
 --versiyon 3
+
+yeniden kodlar yazdik
+github da duzenledik
+
+--versiyon 4
