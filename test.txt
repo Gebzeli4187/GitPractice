@@ -5,3 +5,7 @@ git dosyalarini olusturdum
 yeniden kodala yazdim.
 
 --versiyon 1
+
+kodlarla yeniden versiyonlar olusaturduk.
+
+--versiyon 2
