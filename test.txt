@@ -19,3 +19,7 @@ yeniden kodlar yazdik
 github da duzenledik
 
 --versiyon 4
+
+yeni yeni kodlarımızı yazmıs bulunuyoruz
+
+--versiyon 5
