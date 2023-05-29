@@ -9,3 +9,8 @@ yeniden kodala yazdim.
 kodlarla yeniden versiyonlar olusaturduk.
 
 --versiyon 2
+
+yeni versiyonlar olusturduk
+yeni kodlar yazdik
+
+--versiyon 3
