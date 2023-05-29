@@ -1,0 +1,9 @@
+pratik olarak git calistik
+
+--version 1
+
+git den github a kodlar attık
+--version2
+
+yeni yeni kodlar yazdik
+--versiyon3
