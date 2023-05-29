@@ -1,0 +1,7 @@
+yeni kodlarimi yazdim
+
+git dosyalarini olusturdum
+
+yeniden kodala yazdim.
+
+--versiyon 1
